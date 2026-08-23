@@ -48,13 +48,6 @@ While creating this project, I practiced:
 * Links
 * Semantic HTML elements
 
-## Future Improvements
-
-* Add CSS styling
-* Make the page responsive
-* Improve layout and design
-* Add JavaScript interactions
-
 ## Author
 
 MohammadAmin
