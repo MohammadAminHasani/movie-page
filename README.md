@@ -51,5 +51,3 @@ While creating this project, I practiced:
 ## Author
 
 MohammadAmin
-
-Thanks for visiting this project.
