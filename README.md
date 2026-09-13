@@ -9,7 +9,7 @@ This project presents information about *Blade Runner (1982)*, including its sto
 * IMDb, Rotten Tomatoes, and Letterboxd ratings
 * Overview and summary sections
 * Quick facts about the movie
-* Main cast information
+* Main cast information 
 * Visual style showcase
 * Soundtrack description 
 * Famous quote section
