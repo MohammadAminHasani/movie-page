@@ -11,13 +11,13 @@ This project presents information about *Blade Runner (1982)*, including its sto
 * Quick facts about the movie
 * Main cast information
 * Visual style showcase
-* Soundtrack description
+* Soundtrack description 
 * Famous quote section
-* Online watching links
+* Online watching links 
 
 ## Built With
 
-* HTML5
+* HTML5 
 
 ## Project Structure
 
