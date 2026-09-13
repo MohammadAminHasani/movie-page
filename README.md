@@ -50,6 +50,6 @@ While creating this project, I practiced:
 
 ## Author
 
-MohammadAmin
+MohammadAmin Hasani
 
 MohammadAmin
